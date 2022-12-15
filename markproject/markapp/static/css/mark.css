@@ -1,0 +1,35 @@
+.yy{
+    background-image: url('../image/pexels-gradienta-7130488.jpg');
+    height:100%;
+    width: 100%;
+    
+
+}
+.mb-3{
+    width: 400px;
+    margin-left: 300px;
+    font-size:large;
+    text-align: center;
+    color: azure;
+}
+#exampleInputname{
+    border-radius: 40PX;
+}
+#exampleInputmark{
+    border-radius: 40PX;
+
+}
+#exampleInputgrade{
+    border-radius: 40PX;
+}
+#sub{
+    text-align: center;
+    margin-left: 30px;
+}
+.card mb-3{
+max-width: 18rem; 
+height: 220px;
+border-radius: 30px;
+border: 2px solid #154c79;
+
+}
